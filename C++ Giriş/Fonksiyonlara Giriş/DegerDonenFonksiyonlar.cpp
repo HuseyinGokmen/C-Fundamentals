@@ -7,7 +7,7 @@ using namespace std;
 
 int kareHesapla();  // prototip ile kodun bu fonksiyonu tanımasını sağladım
 
-void main()
+int main()
 {
 	int n = kareHesapla();
 	cout << n;
